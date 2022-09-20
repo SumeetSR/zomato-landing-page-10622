@@ -1,3 +1,3 @@
-# Zomato LLanding Page 10622
+# Zomato Landing Page 10622
 
 This is a basic wed development project built with HTML and CSS.
